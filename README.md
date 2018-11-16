@@ -1,3 +1,3 @@
-# Muestra 3
+# Gimnasio
 
 https://trixcixco.github.io/muestra3/
